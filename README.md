@@ -1,60 +1,60 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Basant%20Joshi&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A97AD&height=160&section=header&text=Web%20Developer&fontSize=44&fontColor=10202A&fontAlignY=38&desc=PHP%20%7C%20Laravel%20%7C%20MySQL%20%7C%20Basant%20Joshi&descSize=15&descAlignY=60&descColor=10202A" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=420&lines=Web+Developer+from+Kathmandu%2C+Nepal;Building+with+PHP%2C+Laravel+%26+MySQL;Open+to+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=PHP+%26+Laravel+Developer;Web+Developer+from+Kathmandu" alt="PHP & Laravel Developer" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
+
+<br/>
+
+<hr/>
 
 <h2>🧠 Tech Stack</h2>
 
-<table align="center">
-<tr>
-<td align="center" width="25%"><b>🌐 Frontend</b></td>
-<td align="center" width="25%"><b>⚙️ Backend & DB</b></td>
-<td align="center" width="25%"><b>🛠️ Tools</b></td>
-<td align="center" width="25%"><b>🎨 Design</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,tailwind&perline=2" height="90" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=php,laravel,mysql&perline=2" height="90" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode&perline=2" height="90" /></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma,ps&perline=2" height="42" /></td>
-</tr>
-</table>
-
-<h2>🚀 Featured Projects</h2>
-
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>🍽️ TableTap</h3>
-<p>QR menu, POS & billing system for restaurants. Guests scan, order and pay from their phone — orders go straight to the kitchen screen.</p>
-<p>✅ Multi-restaurant<br/>✅ eSewa & Khalti<br/>✅ English & Nepali</p>
-<p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></p>
-<a href="https://tabletap.alwaysdata.net"><img src="https://img.shields.io/badge/Live_Demo-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<td align="center" valign="top" width="25%">
+<img src="https://skillicons.dev/icons?i=html" height="34" /><br/>
+<h3>Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" height="28" />
 </td>
-<td width="50%" valign="top">
-<h3>🛍️ SMBA Collection</h3>
-<p>Online dress store with live search, wishlist, coupons, order tracking and an admin panel with sales forecasts.</p>
-<p>✅ eSewa & COD<br/>✅ Invoices<br/>✅ Stock alerts</p>
-<p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></p>
-<a href="https://smbacollectionnp.infinityfreeapp.com"><img src="https://img.shields.io/badge/Live_Demo-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<td align="center" valign="top" width="25%">
+<img src="https://skillicons.dev/icons?i=php" height="34" /><br/>
+<h3>Backend<br/>& DB</h3>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" height="28" />
+</td>
+<td align="center" valign="top" width="25%">
+<img src="https://skillicons.dev/icons?i=git" height="34" /><br/>
+<h3>Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="28" />
+</td>
+<td align="center" valign="top" width="25%">
+<img src="https://skillicons.dev/icons?i=ps" height="34" /><br/>
+<h3>Design</h3>
+<img src="https://skillicons.dev/icons?i=ps,figma" height="28" />
 </td>
 </tr>
 </table>
+
+<hr/>
 
 <h2>📊 GitHub Stats</h2>
 
@@ -63,13 +63,6 @@
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0bby19&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<h2>📫 Connect With Me</h2>
-
 <p align="center">
-<a href="https://basantjoshi01.com.np"><img src="https://img.shields.io/badge/Portfolio-0A0F1A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:basantj2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A97AD&height=90&section=footer" width="100%" />
 </p>
