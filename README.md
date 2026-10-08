@@ -42,32 +42,16 @@
 <td width="50%" valign="top">
 <h3>🍽️ TableTap</h3>
 <p>QR menu, POS & billing system for restaurants. Guests scan, order and pay from their phone — orders go straight to the kitchen screen.</p>
-<p>✅ Multi-restaurant &nbsp;✅ eSewa & Khalti &nbsp;✅ English & Nepali</p>
+<p>✅ Multi-restaurant<br/>✅ eSewa & Khalti<br/>✅ English & Nepali</p>
 <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></p>
 <a href="https://tabletap.alwaysdata.net"><img src="https://img.shields.io/badge/Live_Demo-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </td>
 <td width="50%" valign="top">
 <h3>🛍️ SMBA Collection</h3>
 <p>Online dress store with live search, wishlist, coupons, order tracking and an admin panel with sales forecasts.</p>
-<p>✅ eSewa & COD &nbsp;✅ Invoices &nbsp;✅ Stock alerts</p>
+<p>✅ eSewa & COD<br/>✅ Invoices<br/>✅ Stock alerts</p>
 <p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></p>
 <a href="https://smbacollectionnp.infinityfreeapp.com"><img src="https://img.shields.io/badge/Live_Demo-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>📰 News Portal</h3>
-<p>News website with separate Admin, Author and Reader logins. Readers can bookmark and download articles.</p>
-<p>✅ Role-based access &nbsp;✅ Categories &nbsp;✅ Responsive</p>
-<p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></p>
-<a href="https://github.com/B0bby19"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</td>
-<td width="50%" valign="top">
-<h3>💻 Portfolio Website</h3>
-<p>Hand-coded personal site with light/dark mode and a built-in chat assistant, deployed on my own domain.</p>
-<p>✅ No framework &nbsp;✅ Dark mode &nbsp;✅ Chat assistant</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></p>
-<a href="https://basantjoshi01.com.np"><img src="https://img.shields.io/badge/Live_Demo-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </td>
 </tr>
 </table>
